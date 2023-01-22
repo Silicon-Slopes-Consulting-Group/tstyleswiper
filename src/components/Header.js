@@ -23,7 +23,8 @@ function Header({ backButton }) {
                 </IconButton>
             )}
             <Link to='/'>
-                <img className='header__image' src='https://drive.google.com/uc?export=download&id=16irET-NWvD4aI255f7qO_1adcHFgzrFc' alt='tinder/logo' />
+                <img className='header__image' src='ai.gif' alt='tinder/logo' />
+              
             </Link>
             <Link to='/chat'>
                 <IconButton>

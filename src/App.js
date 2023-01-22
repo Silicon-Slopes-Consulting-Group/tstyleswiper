@@ -5,7 +5,7 @@ import Chats from './components/Chats';
 import ChatScreen from './components/ChatScreen';
 import Header from './components/Header';
 import SwipeButtons from './components/SwipeButtons';
-import TinderCards from './components/TinderCards';
+import TinderCards from './components/TinderCardsbackup';
 
 function App() {
   return (

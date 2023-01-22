@@ -6,10 +6,19 @@
 }
 
 .header__image {
-    height: 40px;
-    object-fit: contain;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 10px solid #1b1b1b; 
+    
 }
-
+.header__imagep {
+    font-size: 16pt;
+    display: flex;
+    font-weight: bold;
+    color: 10px solid #1b1b1b; 
+    
+}
 .headerIcons {
     padding: 20px;
     cursor: pointer;
