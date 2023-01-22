@@ -18,13 +18,14 @@ function Header({ backButton }) {
                 </IconButton>
 
             ) : (
+            <Link to={{ pathname: 'https://silicon-slopes-consulting-group-opai-streamlit-app-opai-rxqreo.streamlit.app/' }} target='_blank'>
                 <IconButton>
                     <PersonIcon className='headerIcons' fontSize='large' />
                 </IconButton>
+            </Link>
             )}
             <Link to='/'>
                 <img className='header__image' src='ai.gif' alt='tinder/logo' />
-              
             </Link>
             <Link to='/chat'>
                 <IconButton>
