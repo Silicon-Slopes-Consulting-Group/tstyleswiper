@@ -1,0 +1,19 @@
+{
+    "git.autofetch": true,
+    "scm.alwaysShowRepositories": true,
+    "scm.repositories.sortOrder": "path",
+    "scm.repositories.visible": 20,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "scm.alwaysShowActions": true,
+    "github.codespaces.connectionType": "any",
+    "githubRepositories.logLevel": "info",
+    "gitlens.advanced.fileHistoryShowAllBranches": true,
+    "gitlens.gitCommands.sortBy": "name",
+    "remoteHub.gitProtocol": "ssh",
+    "remoteHub.logLevel": "info",
+    "remoteHub.richNavigation.enabled": true,
+    "projectManager.any.baseFolders": [
+        "Silicon-Slopes-Consulting-Group/maxflash/"
+    ],
+    "references.preferredLocation": "view"
+}
