@@ -1,0 +1,8 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/express-generator:2": {},
+		"ghcr.io/devcontainers-contrib/features/firebase-cli:2": {},
+		"ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {}
+	}
+}
